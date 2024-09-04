@@ -99,5 +99,23 @@
 
 ## Заключение
 
-Команда git log --graph почему-то перестала показывать ветки и рисует, как будто все в одной, хотя другие ветки созданы и коммиты в них есть. 
-Это примечение сделано, чтобы создать конфликт и проверить, появятся ли ветки.
+Markdown позволяет составлять подробные и удобные инструкции.
+Дополнительно можно выделять разделы с помощью блоков "Примечание", "Совет", "Важно!", "Предупреждение", "Внимание!"
+
+Например:
+
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
+
